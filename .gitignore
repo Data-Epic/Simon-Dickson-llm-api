@@ -1,0 +1,8 @@
+.env
+__init__.py
+__pycache__
+.pytest_cache
+.venv
+csimon-ai
+source
+assistant.log
